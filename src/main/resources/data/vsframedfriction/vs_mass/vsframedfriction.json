@@ -1,0 +1,12 @@
+ [
+  {
+    "block": "vsframedfriction:frictionless_block",
+    "mass": 1000.0,
+    "friction": 0.0
+  },
+  {
+    "block": "vsframedfriction:frictionfull_block",
+    "mass": 100.0,
+    "friction": 1000.0
+  }
+ ]

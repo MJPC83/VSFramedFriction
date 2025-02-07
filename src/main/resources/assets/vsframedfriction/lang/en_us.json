@@ -1,0 +1,11 @@
+{
+  "block.vsframedfriction.frictionfull_block": "FrictionFull Block",
+
+  "block.vsframedfriction.frictionless_block": "FrictionLess Block",
+
+  "block.vsframedfriction.framed_frictionfull_block": "Framed FrictionFull Block",
+
+  "block.vsframedfriction.custom_friction_block": "Custom Friction Block",
+
+  "itemGroup.vsfftab": "VS Framed Friction"
+}

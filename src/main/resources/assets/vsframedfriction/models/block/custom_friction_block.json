@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vsframedfriction:block/custom_friction_block"
+  }
+}

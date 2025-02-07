@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "vsframedfriction:block/custom_friction_block" }
+  }
+}
